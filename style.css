@@ -1,0 +1,23 @@
+html {
+  font: normal normal normal 18px/1.15 sans-serif;
+}
+
+body {
+  padding: 1.0rem;
+}
+
+time {
+  background-color: rgb(248, 152, 168);
+  border: 1px solid rgb(123, 63, 184);
+  border-radius: 2px;
+  display: block;
+  font-size: 2rem;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+small {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: .5rem;
+}
